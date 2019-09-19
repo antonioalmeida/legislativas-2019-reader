@@ -1,4 +1,4 @@
-# legislativas-2019-reader
+# legislativas-2019-reader 
 
 Simple website to read the 2019 Portuguese elections' manifestos.
 
