@@ -1,6 +1,6 @@
-# Legislativas 2019
+# Legislativas 2019 Reader
 
-Um sítio, todos os programas eleitorais.
+Um link, todos ([?](https://github.com/Politica-Para-Todos/pt-programas-legislativas-2019)) os programas eleitorais.
 
 * [Aliança](./alianca.html)
 * [BE - Bloco de Esquerda](./be.html)
@@ -12,3 +12,7 @@ Um sítio, todos os programas eleitorais.
 * [PNR - Partido Nacional Renovador](./pnr.html)
 * [PS - Partido Socialista](./ps.html)
 * [PSD - Partido Social Democrata](./psd.html)
+
+Um obrigado à [Política para Todos](https://www.politicaparatodos.pt/) pela extração dos programas eleitorais. 
+
+[</>](https://github.com/antonioalmeida/legislativas-2019-reader)
